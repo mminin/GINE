@@ -1,0 +1,1 @@
+Copyleft GPLv3.
